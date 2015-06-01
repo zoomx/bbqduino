@@ -1,0 +1,1 @@
+Temperature, humidity and smoke controller for a barbecue controlled by an arduino, interfaced with a lcd display and a rotary encoder.
